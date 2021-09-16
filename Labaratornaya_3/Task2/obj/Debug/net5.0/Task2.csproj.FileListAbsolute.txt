@@ -1,0 +1,15 @@
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.exe
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.dll
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\bin\Debug\net5.0\Task2.pdb
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.dll
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.pdb
+C:\Users\avbat\Desktop\Учеба\Algor\Labaratornaya_3\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
