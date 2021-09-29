@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\avbat\\Desktop\\Ucheba\\Лабы на гит\\Algor\\Laboratornaya_4\\Task1\\Task1.csproj": {}
+    "C:\\Users\\avbat\\source\\repos\\Test1\\Test2\\Test2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\avbat\\Desktop\\Ucheba\\Лабы на гит\\Algor\\Laboratornaya_4\\Task1\\Task1.csproj": {
+    "C:\\Users\\avbat\\source\\repos\\Test1\\Test2\\Test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\avbat\\Desktop\\Ucheba\\Лабы на гит\\Algor\\Laboratornaya_4\\Task1\\Task1.csproj",
-        "projectName": "Task1",
-        "projectPath": "C:\\Users\\avbat\\Desktop\\Ucheba\\Лабы на гит\\Algor\\Laboratornaya_4\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\avbat\\source\\repos\\Test1\\Test2\\Test2.csproj",
+        "projectName": "Test2",
+        "projectPath": "C:\\Users\\avbat\\source\\repos\\Test1\\Test2\\Test2.csproj",
         "packagesPath": "C:\\Users\\avbat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\avbat\\Desktop\\Ucheba\\Лабы на гит\\Algor\\Laboratornaya_4\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\avbat\\source\\repos\\Test1\\Test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\avbat\\AppData\\Roaming\\NuGet\\NuGet.Config",
